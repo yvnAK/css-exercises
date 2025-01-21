@@ -1,0 +1,8 @@
+div {
+    display: block;
+    text-align: center;
+    color: white;
+    background-color: red;
+    font-size: larger;
+    font-weight: bold;
+}
